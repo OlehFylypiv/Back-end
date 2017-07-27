@@ -1,0 +1,19 @@
+{
+  "name": "home_work_07",
+  "version": "1.0.0",
+  "description": "Finish",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oleh Fylypiv",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "joi": "^10.6.0",
+    "nodemon": "^1.11.0",
+    "passport": "^0.3.2",
+    "passport-http": "^0.3.0"
+  }
+}
